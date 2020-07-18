@@ -7,4 +7,4 @@ The following features will be tested:
 4. Merging
 5. Pull
 6. Push
-
+7. Get files
