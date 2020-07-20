@@ -24,3 +24,5 @@ The following features will be tested:
 5. Pull
 6. Push
 7. Get files
+
+This change is for payments branch.
